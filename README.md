@@ -1,6 +1,6 @@
 A way to generate prime numbers along with generating a [Ulam Spiral](https://en.wikipedia.org/wiki/Ulam_spiral)
 
-![Ulam Spiral](prime_plot.py)
+![Ulam Spiral](prime_plot.jpg)
 
 Proceed as follows:
 
